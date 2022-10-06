@@ -4,5 +4,7 @@ public class Hello {
         System.out.println("hello world ");
         System.out.println("hello github ");
         System.out.println("hello 你好 ");
+        System.out.println("=======");
+        System.out.println("此处为hot分支");
     }
 }
